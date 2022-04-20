@@ -1,0 +1,26 @@
+
+.Text{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+.Footer{
+  text-align: center;
+  margin-top: 400px;
+}
+
+.Names{
+  display: inline;
+}
+
+.UI{
+margin-left: auto;
+margin-right: auto;
+width: 25em;
+}
+
+.SubmitButton{
+  margin-left:132px;
+  margin-top: 70px;
+}
+

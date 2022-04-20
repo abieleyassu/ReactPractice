@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.payment{
+  align-content: right;
+  text-align: right;
+}
+
+.paymentForms{
+  margin-top: 10%;
+}
+
+.description{
+  width: 300px;
+}
+
+.description_label{
+  padding-left: 500px;
+  text-align: left;
+}
+
+.dollarInput{
+  padding-left: 130px;
+  text-align: left;
+}
+
+
+
+.continue{
+  padding-top: 30px;
+}
+
+.continue_btn{
+  color: gray;
+}
