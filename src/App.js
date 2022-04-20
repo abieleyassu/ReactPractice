@@ -80,6 +80,7 @@ date.*/}
     message is displayed using an h1 tag to make it stand out. */}
       <div className="Header">
         <h1 className="Text">Welcome to AE's Credit Card Payment Managment System</h1>
+        <h1>Hello my name is Abiel Eyassu</h1>
       </div>
 
       {/* This div tag is to collect all of the different components that are used within
